@@ -1,1 +1,2 @@
-水电费改版后没讲呢刚发的VB给你吧v方便农民工妨功害能民和股份
+Git is a distributed version control system.
+Git is free software.
